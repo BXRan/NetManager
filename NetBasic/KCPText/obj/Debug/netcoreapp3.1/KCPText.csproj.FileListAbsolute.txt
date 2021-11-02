@@ -1,0 +1,16 @@
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.exe
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.deps.json
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.runtimeconfig.json
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.runtimeconfig.dev.json
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.dll
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\KCPText.pdb
+D:\Work\Demo\Net\NetBasic\KCPText\bin\Debug\netcoreapp3.1\Kcp.dll
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.csproj.AssemblyReference.cache
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.AssemblyInfoInputs.cache
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.AssemblyInfo.cs
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.csproj.CopyComplete
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.dll
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.pdb
+D:\Work\Demo\Net\NetBasic\KCPText\obj\Debug\netcoreapp3.1\KCPText.genruntimeconfig.cache

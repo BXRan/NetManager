@@ -1,0 +1,14 @@
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Work\Demo\Net\NetBasic\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Work\Demo\Net\NetBasic\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

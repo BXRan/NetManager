@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCPNet", "KCPNet\KCPNet.csproj", "{D667082D-2E6B-4492-91AF-5FDA1A747144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D667082D-2E6B-4492-91AF-5FDA1A747144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D667082D-2E6B-4492-91AF-5FDA1A747144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D667082D-2E6B-4492-91AF-5FDA1A747144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D667082D-2E6B-4492-91AF-5FDA1A747144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302D1482-F773-4B01-B530-650833866B6F}
+	EndGlobalSection
+EndGlobal
